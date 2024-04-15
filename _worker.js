@@ -7,11 +7,20 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
+	'skk.more:443#官方优选',
+	'icook.hk:443#官方优选',
+	'icook.tw:443#官方优选',
+	'cf.090227.xyz:443#官方优选-CM',
+	'cfip.xxxxxxxx.tk:443#官方优选-OTC',
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
 	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/Apocalypse12345/yxip/main/yxip.txt',//自用
+	'https://addressesapi.090227.xyz/CloudFlareYes',
+	'https://addressesapi.090227.xyz/ct',
+	'https://addressesapi.090227.xyz/cmcc',
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
