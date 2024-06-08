@@ -38,7 +38,9 @@ let addressesnotlsapi = [
 
 let DLS = 8;//速度下限
 let addressescsv = [
-	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
+	'https://raw.githubusercontent.com/Apocalypse12345/yxip/main/AS0-0-LAX.csv?token=GHSAT0AAAAAACPVOWQJECRDNCESFANO4DZAZTEKV2Q', 
+	'https://raw.githubusercontent.com/Apocalypse12345/yxip/main/AS0-0-HKG.csv?token=GHSAT0AAAAAACPVOWQI36FM2RDYAUZWOOG6ZTEMHDA',
+	'https://raw.githubusercontent.com/Apocalypse12345/yxip/main/AS0-0-TPE.csv?token=GHSAT0AAAAAACPVOWQJ5IP2JN4GHEHL672AZTEMHWA',//iptest测速结果文件。
 ];
 
 let subconverter = "apiurl.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
