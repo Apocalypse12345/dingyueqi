@@ -36,7 +36,7 @@ let addressesnotlsapi = [
 	'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 ];
 
-let DLS = 8;//速度下限
+let DLS = 1;//速度下限
 let addressescsv = [
 	'https://raw.githubusercontent.com/Apocalypse12345/yxip/main/AS0-0-LAX.csv?token=GHSAT0AAAAAACPVOWQJECRDNCESFANO4DZAZTEKV2Q', 
 	'https://raw.githubusercontent.com/Apocalypse12345/yxip/main/AS0-0-HKG.csv?token=GHSAT0AAAAAACPVOWQI36FM2RDYAUZWOOG6ZTEMHDA',
